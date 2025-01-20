@@ -1,0 +1,57 @@
+.container-2 {
+    margin: 20px;
+    display: flex;
+    gap: 12px;
+}
+
+.child {
+    height: 157px;
+    width: 165px;
+}
+
+.child-5 {
+    height: 157px;
+    width: 240px;
+}
+
+.child div,
+p {
+    height: 25px;
+}
+
+.child p {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.child a {
+    font-weight: 400;
+    font-size: small;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(175, 172, 172);
+}
+
+.child p {
+    color: white;
+}
+
+.svg {
+    justify-content: flex-end;
+    display: flex;
+    gap: 11px;
+}
+
+.svg img {
+    height: 19px;
+    filter: invert(1);
+}
+
+.svg-1 {
+    background-color: rgb(62 59 59);
+    height: 41px;
+    padding: 11px;
+    border: none;
+    width: 41px;
+    border-radius: 66px;
+}
